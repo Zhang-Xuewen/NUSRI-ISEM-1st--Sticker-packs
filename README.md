@@ -17,6 +17,7 @@ Su Zhou 2020.09 to 2021.05.20 NUSRI ISEM First Session  Including all 19 members
 - [Short link](https://w.url.cn/s/Ayso8nt#wechat_redirect)
 - [Mini app redirection link](http://weixin.qq.com/jumpemoticonstore?token=AAshJxQFAAABAAAAAACe1VbMDtIQtWiH370QZxAAAABQfF0uS5S5suWyaDJKBpGHlkB8pIcImkigqgTz%2BRatVtTJwe9ak8Rt9%2BIjeRwnWDSvNxqKjADSA2tdInVV6f1Aa1NTcQ4%2Fc8%2BW%2FbkyA%2BLnZjyHaiIoj%2ByvPrIb77hgZmHoo66ik%2FfK2pEyxU%2BNGDJwF3wXrhDlt5pn)
 - QR code
+  
 ![QRcode](https://github.com/user-attachments/assets/755f06ed-4233-488a-968e-ca694bf14f2f)
 
 
