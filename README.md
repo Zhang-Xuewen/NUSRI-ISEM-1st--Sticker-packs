@@ -8,7 +8,7 @@ Su Zhou 2020.09 to 2021.05.20 NUSRI ISEM First Session  Including all 19 members
 
 > If you are using this work in your research or teaching, please include explicit acknowledge of this work and of our paper.
 >
-> Please check the sections of [**License**](#license) and [**Citation**](#citation) at the end.
+> Please check the sections of [**License**](#license) at the end.
 
 
 ## Sticker-packs
