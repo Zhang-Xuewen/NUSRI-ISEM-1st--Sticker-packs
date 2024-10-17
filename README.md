@@ -6,7 +6,7 @@ This is my second sticker pack design published in WeChat.
 
 Su Zhou 2020.09 to 2021.05.20 NUSRI ISEM First Session  Including all 19 members 7 Boys + 12 Girls See U in the future. 
 
-> If you are using this work in your research or teaching, please include explicit acknowledge of this work and of our paper.
+> If you are using this work, please include explicit acknowledge of this project.
 >
 > Please check the sections of [**License**](#license) at the end.
 
