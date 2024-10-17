@@ -1,6 +1,6 @@
 # 😊Sticker-packs "NUSRI-ISEM-1st"🥳
 
-![NUSRI-ISEM-1st](https://github.com/user-attachments/assets/2174eadf-9e59-41f4-879d-a255a26ec2b9)
+![NUSRI-ISEM-1st](https://github.com/user-attachments/assets/4cbb1ff4-a9c2-4f46-8b20-77d90c9fbce4)
 
 This is my second sticker pack design published in WeChat.
 
