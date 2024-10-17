@@ -31,7 +31,7 @@ Su Zhou 2020.09 to 2021.05.20 NUSRI ISEM First Session  Including all 19 members
 
 The project is released under the APACHE license. See [LICENSE](https://github.com/QiYuan-Zhang/QYtool/blob/main/LICENSE) for details.
 
-Copyright 2024 Xuewen Zhang (xuewen001@e.ntu.edu.sg)
+Copyright 2024 Xuewen Zhang (xuewen.zhang741@outlook.com)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 ```
