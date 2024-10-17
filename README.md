@@ -11,6 +11,15 @@ Su Zhou 2020.09 to 2021.05.20 NUSRI ISEM First Session  Including all 19 members
 > Please check the sections of [**License**](#license) and [**Citation**](#citation) at the end.
 
 
+## Sticker-packs
+
+
+![1](https://github.com/user-attachments/assets/883c319f-5891-4987-b04d-99dd86001887)
+
+![2](https://github.com/user-attachments/assets/50e5c854-e366-47a5-aeb1-0e6b261427e2)
+
+![3](https://github.com/user-attachments/assets/e4fde30d-e160-4a21-93e0-80ce9722dd6a)
+
 ## How to use
 
 - [Introduction page](https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/M/t59iIXlCWBo3kvv3EwYyyljDJIUuEuZHbTGan0wjrk3y4uUBEB+trV9eK11eyyw=)
